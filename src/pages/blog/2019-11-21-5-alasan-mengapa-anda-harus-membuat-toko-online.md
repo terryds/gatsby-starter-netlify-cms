@@ -34,6 +34,7 @@ Semakin banyak pengguna internet maka semakin besar pula peluang bisnis anda ber
 Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
 1. **Murah**
+
    ![Buat toko online murah](https://image.freepik.com/free-photo/overhead-view-car-coin-stack-calculator-pen-infographic-template_23-2147919139.jpg)
 
    Membuat Toko Online membutuhkan **biaya yang kecil jika dibandingkan dengan membuka toko offline** seperti menyewa toko di mall, apalagi biasanya perlu biaya tambahan seperti gaji kasir dan penjual.
@@ -45,6 +46,7 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
    
 
 2. **Pelanggan mudah melakukan pembelian**
+
    ![Mudahnya mendapatkan pelanggan dengan toko online](https://image.freepik.com/free-photo/handsome-man-sitting-yoga-pose-near-desk-with-laptop_1163-2366.jpg)
 
    Dengan membuat Toko Online, artinya Anda telah **berinvestasi untuk meningkatkan penjualan** karena peluang pengguna internet mencari produk anda semakin tinggi.
@@ -63,7 +65,9 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    
 
-3. **Membangun Brand Sendiri**![Pentingnya toko online dalam menbangun brand sendiri](https://image.freepik.com/free-photo/laptop-coworking-space_53876-14515.jpg)
+3. **Membangun Brand Sendiri**
+
+![Pentingnya toko online dalam menbangun brand sendiri](https://image.freepik.com/free-photo/laptop-coworking-space_53876-14515.jpg)
 
    Anda bisa saja berjualan di *Marketplace*. Namun, pelanggan anda akan memiliki banyak sekali opsi untuk berbelanja selain anda.
 
@@ -86,7 +90,9 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    
 
-4. **Toko Selalu Buka 24 Jam Sehari Setiap Hari**![Toko online bukan 24 jam](https://image.freepik.com/free-photo/close-up-red-sign-open-24-hours_23-2148283876.jpg)
+4. **Toko Selalu Buka 24 Jam Sehari Setiap Hari**
+
+![Toko online bukan 24 jam](https://image.freepik.com/free-photo/close-up-red-sign-open-24-hours_23-2148283876.jpg)
 
    Selama ada koneksi internet, pelanggan anda bisa mengakses Toko Anda dari mana pun dan kapan pun tanpa menunggu siapapun untuk membeli produk Anda.
 
