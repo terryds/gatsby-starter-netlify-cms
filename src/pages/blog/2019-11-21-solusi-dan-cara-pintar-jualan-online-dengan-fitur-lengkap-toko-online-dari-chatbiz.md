@@ -40,9 +40,11 @@ Berikut fitur-fitur pintar dari Admin Virtual Chatbiz:
 
    Dengan fitur Mini Website Jualan, anda dapat menampilkan katalog produk Toko Onlinemu, dimana pelanggan bisa memilih dan membeli produk langsung dari toko Anda.
 
+
 2. **Admin Virtual 24 Jam**
 
    Respon cepat dari Admin Virtual Chatbiz akan melayani pelanggan anda selama 24 jam sehari. Respon cepat dan pintar dari Admin Virtual Chatbiz akan membuat pelanggan semakin setia, dan Anda tinggal duduk manis menerima rekap penjualannya saja.
+
 
 3. **AI yang Terus Belajar**
 
@@ -52,17 +54,21 @@ Berikut fitur-fitur pintar dari Admin Virtual Chatbiz:
 
    Anda tidak perlu ribet membuat *Invoice* untuk setiap penjualan. Pelangggan anda secara otomatis akan mendapatkan *Invoice* setelah produk dikonfirmasi oleh anda. *Invoice* ini bisa digunakan untuk konfirmasi pembayaran dan melacak lokasi pengiriman produk.
 
+
 5. **Kelola Stok**
 
    Order masuk tapi ternyata stoknya tidak ada? Toko Anda dalam bahaya. Admin Virtual Chatbiz akan selalu kelola stok produk secara otomatis. Stok yang keluar dan masuk akan dikelola dengan pintar sehingga pengelolaan Toko Online Anda akan lebih efisien.
 
+
 6. **Mudah Update Stok dengan CSV**
 
-   Tidak perlu repot memperbarui stok produk Anda satu per satu. Cukup dengan memasukan CSV stok produk Anda, seluruh stok produk Anda akan berubah sesuai informasi yang terdapat dalam CSV
+   Tidak perlu repot memperbarui stok produk Anda satu per satu. Cukup dengan memasukan CSV stok produk Anda, seluruh stok produk Anda akan berubah sesuai informasi yang terdapat dalam CSV.
+
 
 7. **Kelola Order**
 
    Anda dapat kelola semua order dari pelanggan dalam satu halaman. Lihat detail pesanan dan data pelanggan anda lebih rinci beserta bukti pembayaran langsung dalam halaman tersebut. Mengelola order tidak ribet lagi dengan Admin Virtual Chatbiz!
+
 
 8. **Integrasi dengan Line**
 
@@ -72,9 +78,11 @@ Berikut fitur-fitur pintar dari Admin Virtual Chatbiz:
    >
    > Sumber: [kumparan.com ](https://kumparan.com/kumparantech/pengguna-line-di-indonesia-capai-90-juta-didominasi-anak-muda)
 
+
 9. **Beragam Pilihan Jasa Pengiriman**
 
    Anda dapat mengkustomisasi jasa pengiriman yang akan digunakan untuk pengiriman produk. Admin Virtual Chatbiz menyediakan 5 (lima) layanan ekspedisi yaitu JNE, J&T, TIKI, Pos dan siCepat untuk cek langsung ongkir.
+
 
 10. **Analisa dan Laporan Penjualan**
 
@@ -86,29 +94,37 @@ Berikut fitur-fitur pintar dari Admin Virtual Chatbiz:
 
    Buat pelanggan Anda semakin setia dengan AI pintar yang memiliki teknologi *Natural Language Processing* (NLP). AI pintar tersebut terintegrasi dengan Admin Virtual Chatbiz dan bisa memahami kompleksitas bahasa manusia secara natural.
 
+
 2. **Menampilkan Katalog** 
 
    Katalog akan menampilkan gambar dan deskripsi produk dengan jelas sehingga pelanggan tidak akan kebingunan dalam memilih produk. Pelanggan akan merasa nyaman ketika tahu lebih detail tentang produk yang akan mereka beli.
+
 
 3. **Keranjang Belajar**
 
    Keranjang Belanja terintegrasi dengan Admin Virtual Chatbiz yang memudahkan pelanggan ketika melakukan pembelian banyak produk sekaligus.
 
+
 4. **Cek Harga Ongkir**
 
    Tidak perlu repot membuka banyak situs Jasa Ekspedisi untuk mengecek ongkir. Pelanggan tidak akan bingung dengan fitur cek harga ongkir otomatis yang tersedia langsung di Admin Virtual Chatbiz setelah pelanggan menuliskan alamat pengiriman. Berbelanja semakin praktis dengan Admin Virtual Chatbiz!
+
 
 5. **Konfirmasi Pembayaran**
 
    Anda tidak perlu lagi repot mengingatkan pelanggan Anda untuk melakukan pembayaran. Pelanggan Anda langsung bisa mengirimkan bukti pembayaran melalui Admin Virtual Chatbiz.
 
+
 6. **Notifikasi Email**
 
    Anda dan pelanggan akan mendapatkan Notifikasi Email setelah pelanggan anda melakukan konfirmasi produk yang ingin dibeli. Anda dan pelanggan akan mendapatkan pemberitahuan transaksi, status order, dan *follow up* pembayaran secara otomatis.
 
+
 7. **Cek Lokasi Pengiriman Produk**
 
    Bingung produk pelanggan anda sudah dimana? Anda tidak usah panik lagi karena  pelanggan Anda dapat melacak proses pengiriman produk dengan memasukan *Invoice* langsung di Admin Virtual Chatbiz.
+
+***
 
 Dengan fitur yang berlimpah dari Admin Virtual [Chatbiz](http://www.chatbiz.id), anda akan memiliki partner sejati dalam mengelola toko online yang tidak mengenal lelah. Admin Virtual Chatbiz juga memberikan *experience* yang bagus untuk pelanggan, sehingga pelanggan akan merasa nyaman dan puas ketika berinteraksi dengan Toko Online anda. 
 
