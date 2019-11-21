@@ -5,8 +5,8 @@ image: /img/revisi_ukuran.jpg
 heading: Chatbiz.id Virtual Admin
 subheading: Admin Virtual Chatbiz.id Siap Kelola Toko Online Anda 24 Jam!
 mainpitch:
-  title: Why Chatbiz.id?
-  description: 'Save up to 80%, Convert up to 20%'
+  title: 'Yuk, kenalan dengan Chatbiz!'
+  description: Hemat pengeluaran hingga 80%
 description: >-
   Chatbiz.id lets online store business owner to create virtual agent to help
   the business, from customer service, invoicing, to analyzing customer data,
