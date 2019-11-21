@@ -22,13 +22,11 @@ tags:
   - Jualan
   - AI
 ---
-
-
-![img](https://lh4.googleusercontent.com/wx8u37ipJNGfPN3hsQ9zzi8lO80Q63p2CtbmIof_JnHLoBJ2F9w4_f5dLqO2DO0drbxl5v-_9EpzmZRMliLi2mSPptn7q3GDFccF4EGNChE3EWp8so70u0bjTCooh_BXAbbAXAb-)
-
 Anda harus mengelolanya dengan benar, tapi tidak mungkin mengelola ribuan order yang masuk dengan cepat jika hanya seorang diri, dibutuhkan partner sejati yang siap membantu mengelola orderan tanpa kenal lelah 24x7 jam. 
 
 Tapi, apakah ada partner yang siap membantu mengelola toko online anda 24x7 jam tanpa mengenal lelah? mungkin saja ada, tapi bagaimana dengan biayanya? rasanya tidak mungkin mereka melakukan itu dengan sukarela.
+
+![img](https://lh4.googleusercontent.com/wx8u37ipJNGfPN3hsQ9zzi8lO80Q63p2CtbmIof_JnHLoBJ2F9w4_f5dLqO2DO0drbxl5v-_9EpzmZRMliLi2mSPptn7q3GDFccF4EGNChE3EWp8so70u0bjTCooh_BXAbbAXAb-)
 
 Oleh karena itu, [Chatbiz](http://www.chatbiz.id) membuat Inovasi yaitu "Admin Virtual" untuk membantu pelaku usaha mengelola toko onlinenya tanpa mengeluarkan biaya besar, alias GRATIS. 
 
