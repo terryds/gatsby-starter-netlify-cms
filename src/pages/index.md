@@ -8,9 +8,9 @@ mainpitch:
   title: 'Yuk, kenalan dengan Chatbiz!'
   description: Hemat pengeluaran hingga 80%
 description: >-
-  Chatbiz.id lets online store business owner to create virtual agent to help
-  the business, from customer service, invoicing, to analyzing customer data,
-  thus reducing cost up to 80%, and convert more visitors up to 20%.
+  Chatbiz.id membantu Pemilik Toko Online membuat Admin Virtual yang akan
+  membantu bisnis mereka dari mulai Customer Service, sistem Invoice otomatis,
+  melakukan analisa penjualan dengan biaya yang sangat terjangkau!
 intro:
   blurbs: []
   heading: Blog of Chatbiz.id
