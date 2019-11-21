@@ -43,7 +43,7 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    Dengan adanya Toko Online, anda tidak perlu lagi menyewa toko di mall apalagi membayar gaji kasir dan penjual karena dengan teknologi yang ada di Toko Online, pelanggan Anda bisa berbelanja tanpa kesulitan.
 
-   
+   ***
 
 2. **Pelanggan mudah melakukan pembelian**
 
@@ -63,7 +63,7 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    Pelanggan Anda juga akan lebih mudah membeli produk karena sekarang **pelanggan bisa menjelajah di Toko Online anda untuk mencari produk yang mereka inginkan** tanpa ada lagi paksaan dari para penjual.
 
-   
+      ***
 
 3. **Membangun Brand Sendiri**
 
@@ -88,7 +88,7 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    Tertarik membuat Toko Online sendiri? Silahkan [baca panduan ini](https://blog.chatbiz.id/)
 
-   
+      ***
 
 4. **Toko Selalu Buka 24 Jam Sehari Setiap Hari**
 
@@ -100,18 +100,14 @@ Berikut ini 5 Alasan Mengapa Anda harus Membuat Toko Online:
 
    Toko Online Anda siap melayani pelanggan Anda 24 jam sehari setiap hari**. Inilah salah satu kelebihan dari Toko Online dibandingkan toko offline.
 
-   
+      ***
 
 5. **Banyak otomasi kegiatan**
 
    ![Toko online dengan banyak otomasi kegiatan](https://image.freepik.com/free-photo/ai-robotic-operations-tablet_1387-648.jpg) 
-   Kalo anda kedatangan banyak pelanggan dalam satu waktu, apa yang anda lakukan? Misal, 100 orang ingin membeli produk anda dalam 1 waktu.
+   Kalo anda kedatangan banyak pelanggan dalam satu waktu, apa yang anda lakukan? Misal, 100 orang ingin membeli produk anda dalam 1 waktu. Tentunya anda tidak mungkin mengelola order sebanyak itu bukan?
 
-   
-
-   Tentunya anda tidak mungkin mengelola order sebanyak itu bukan?
-
-   
+      ***
 
    Dengan membuat Toko Online, **anda bisa mengelola ratusan bahkan ribuan order dalam 1 waktu** karena banyak fitur dari Toko Online yang otomatis bekerja tanpa perlu anda lakukan manual seperti cek ongkir, mengelola *invoice*, mengelola stok, mengelola order, analisa penjualan, dan masih banyak lagi.
 
