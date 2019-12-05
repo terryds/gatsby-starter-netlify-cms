@@ -23,13 +23,12 @@ tags:
 Ingat! Membuat toko online merupakan langkah wajib bisnis anda untuk **memperluas calon pelanggan anda**.
 
 Apalagi berdasarkan survei APJII, **143,26 juta jiwa atau 54,68% dari total populasi 262 juta orang di tahun 2017 telah menggunakan internet**.
-
+
+Bahkan, prediksi McKinsey, menyebutkan bahwa **pertumbuhan e-commerce di Indonesia meningkat 8x lipat** pada periode 2017 sampai 2018. Dari total belanja online **senilai US$8 miliar di 2017, meningkat menjadi US$55 miliar hingga US$65 miliar pada 2020**.
 
 
 ![image.thumb.png.77434a8d507c43a31ff532a5e39a839b.png](https://lh6.googleusercontent.com/MCiCRYo-Rgrw7603b58qXBZLAixu55KV4J_mC7PCHr0Qtpn4iVM2vZWd-ZKI9c2ikJ0ISlAudRwGVD5gvWEt3trwHkmwidpOyStKEz_3thoMAZMoOjVAY7PpuDDNhMcHjcgrT9jy)
 
-
-Bahkan, prediksi McKinsey, menyebutkan bahwa **pertumbuhan e-commerce di Indonesia meningkat 8x lipat** pada periode 2017 sampai 2018. Dari total belanja online **senilai US$8 miliar di 2017, meningkat menjadi US$55 miliar hingga US$65 miliar pada 2020**.
 
 Tentunya peluang ini harus digunakan oleh anda untuk **meningkatkan penjualan**.Anda bisa saja berjualan di **Marketplace**. Namun, **pelanggan anda** akan memiliki **banyak sekali opsi** untuk berbelanja selain anda.Sangat disayangkan bukan? Anda sudah **menghabiskan banyak waktu dan energi** untuk mendatangkan pelanggan, ternyata **lihat produk serupa malah tertarik dan pergi**.
 
