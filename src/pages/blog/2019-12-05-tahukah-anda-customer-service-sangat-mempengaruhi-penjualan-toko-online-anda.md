@@ -63,4 +63,4 @@ Manusia tentu tidak luput dari kesalahan, sebaik-baiknya kita mengelola produk k
 
 Dari hal-hal diatas, dapat disimpulkan bahwa posisi *Customer Service* sangatlah menentukan penjualan dari. **Admin Virtual dari [Chatbiz.id](hchatbiz.id)** bisa loh melakukan itu semua, yuk coba sekarang!
 
-(Penulis: Faisal Sugangga)
+Penulis: Faisal Sugangga
