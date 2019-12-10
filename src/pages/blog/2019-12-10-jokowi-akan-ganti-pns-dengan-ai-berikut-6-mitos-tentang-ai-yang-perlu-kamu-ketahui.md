@@ -124,7 +124,7 @@ Sedangkan *machine learning* lebih tepat disebut sebagai bagian dari AI di mana 
 ___
 Bagaimana? Setelah mengetahui fakta dari 6 mitos AI di atas, sudah saatnya Anda mulai berpikiran positif mengenai keberadaan AI. Ingat, AI itu bukan sesuatu yang harus Anda takuti, tapi jadikan suatu media untuk mempermudah pekerjaan Anda. :smile:
 
-Yuk, kenalan dengan Admin Virtual untuk usaha Anda yang memiliki AI dengan kepintaran tiada batas dan sangat bersahabat dari [Chatbiz](https://www.chatbiz.id) !
+Yuk, kembangkan usaha Anda dengan Admin Virtual yang memiliki AI pintar tiada batas dan sangat bersahabat dari [Chatbiz](https://www.chatbiz.id) !
 
 Penulis : Nurdini
 
