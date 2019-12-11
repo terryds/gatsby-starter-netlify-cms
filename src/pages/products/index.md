@@ -6,8 +6,11 @@ heading: Coming Soon
 description: Comming soon
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: Coming soon
+    - image: /img/picture1.png
+      text: >
+        Live Chat yang didukung AI untuk menguatkan merek Anda dengan melibatkan
+        pengunjung web dan membantu mereka mencapai apa yang mereka butuhkan
+        tanpa biaya yang mahal dari agen manusia.
     - image: /img/coffee-gear.png
       text: Coming soon
     - image: /img/tutorials.png
