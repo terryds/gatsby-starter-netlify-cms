@@ -11,8 +11,11 @@ intro:
         Live Chat yang didukung AI untuk menguatkan merek Anda dengan melibatkan
         pengunjung web dan membantu mereka mencapai apa yang mereka butuhkan
         tanpa biaya yang mahal dari agen manusia.
-    - image: /img/coffee-gear.png
-      text: Coming soon
+    - image: /img/1.png
+      text: >
+        AI pintar Chatbiz dengan Teknologi NLP​ terintegrasi dengan Admin
+        Virtual Chatbiz dan bisa memahami kompleksitas bahasa manusia secara
+        natural.
     - image: /img/tutorials.png
       text: Coming soon
     - image: /img/meeting-space.png
