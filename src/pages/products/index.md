@@ -1,9 +1,11 @@
 ---
 templateKey: product-page
-title: Our Product
+title: Feature
 image: /img/jumbotron.jpg
-heading: Coming Soon
-description: Comming soon
+heading: >-
+  Berikut fitur-fitur unggulan dari Chatbiz.id yang akan membantu meningkatkan
+  bisnis Anda
+description: Admin Virtual untuk Bisnis Anda!
 intro:
   blurbs:
     - image: /img/picture1.png
@@ -21,8 +23,11 @@ intro:
         Mini Website Jualan yang memudahkan Anda selaku pelaku usaha dan juga
         pelanggan Anda. Pelanggan bisa memilih dan membeli produk langsung dari
         toko Anda tanpa ribet.
-    - image: /img/meeting-space.png
-      text: Coming soon
+    - image: /img/picture3.png
+      text: >-
+        Admin Virtual Chatbiz dapat terintegrasi dengan akun LINE Official anda
+        dimana aplikasi chatting Line merupakan salah satu aplikasi terpoluer di
+        Indonesia saat ini. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
