@@ -16,8 +16,11 @@ intro:
         AI pintar Chatbiz dengan Teknologi NLP​ terintegrasi dengan Admin
         Virtual Chatbiz dan bisa memahami kompleksitas bahasa manusia secara
         natural.
-    - image: /img/tutorials.png
-      text: Coming soon
+    - image: /img/picture2.png
+      text: >
+        Mini Website Jualan yang memudahkan Anda selaku pelaku usaha dan juga
+        pelanggan Anda. Pelanggan bisa memilih dan membeli produk langsung dari
+        toko Anda tanpa ribet.
     - image: /img/meeting-space.png
       text: Coming soon
   heading: What we offer
